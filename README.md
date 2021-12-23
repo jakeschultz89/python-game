@@ -7,7 +7,7 @@
 <li>If caught NJP and restrict level to reflect new rank (Boss busts down farther)</li>
 <li>Platformer(Clear Code Youtube: https://www.youtube.com/c/ClearCode/videos) </li>
 <li>Chevrons for extra points</li>
-<li>Dip-oil slick, Cigs-bribe, Ripit-speed for powerups</li>
+<li>Dip-oil slick, Cigs-bribe, Ripit-speed, crayons-TBD for powerups</li>
 <li>Levels: Boot Camp(DI Enemy),SOI, Barracks(Duty/Comamnd), Deployment,  Thailand</li>
 <li>Character Options: Wook/Motard Wears Skates</li>
 <li>Quotes: "Good Initiative, Bad Judgement", </li>
