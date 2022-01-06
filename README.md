@@ -11,3 +11,4 @@
 <li>Levels: Boot Camp(DI Enemy),SOI, Barracks(Duty/Comamnd), Deployment,  Thailand</li>
 <li>Character Options: Wook/Motard Wears Skates</li>
 <li>Quotes: "Good Initiative, Bad Judgement", </li>
+<li>Porta-Shitter Writing wall for reviews</li>
