@@ -8,7 +8,7 @@ class Game:
 	def __init__(self):
 
 		# game attributes
-		self.max_level = 6
+		self.max_level = 0
 		self.max_health = 100
 		self.cur_health = 100
 		self.crayons = 0
